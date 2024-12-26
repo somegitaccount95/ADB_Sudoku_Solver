@@ -6,20 +6,20 @@ This program utilizes ADB (Android Debug Bridge), Open CV, and Pytesseract to re
 
 This project only works on android with an adb compatible device.
 
-Python: \n
-https://www.python.org/ \n
+Python: <br>
+https://www.python.org/ <br>
 
-Pytesseract:
-https://tesseract-ocr.github.io/
-https://github.com/tesseract-ocr/tesseract
-https://pypi.org/project/pytesseract/
+Pytesseract: <br>
+https://tesseract-ocr.github.io/ <br>
+https://github.com/tesseract-ocr/tesseract <br>
+https://pypi.org/project/pytesseract/ <br>
 
-Open CV:
-https://pypi.org/project/opencv-python/
-https://opencv.org/
+Open CV: <br>
+https://pypi.org/project/opencv-python/ <br>
+https://opencv.org/ <br>
 
-ADB:
-https://developer.android.com/tools/adb
+ADB: <br>
+https://developer.android.com/tools/adb <br>
 
-Sudoku.com app:
-https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&hl=en_US
+Sudoku.com app: <br>
+https://play.google.com/store/apps/details?id=com.easybrain.sudoku.android&hl=en_US <br>
