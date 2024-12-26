@@ -248,7 +248,7 @@ def inputPuzzle(sudokuPuzzle: list, unsolvedSudokuPuzzle: list, numberLocationDi
         return False
 
 if __name__ == "__main__":
-    pytesseract.pytesseract.tesseract_cmd = r"C:/Users/Sonya/AppData/Local/Programs/Tesseract-OCR/tesseract.exe"
+    pytesseract.pytesseract.tesseract_cmd = r"C:/Path/To/tesseract.exe"
 
     banner()
 
