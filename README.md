@@ -6,8 +6,8 @@ This program utilizes ADB (Android Debug Bridge), Open CV, and Pytesseract to re
 
 This project only works on android with an adb compatible device.
 
-Python:
-https://www.python.org/
+Python: \n
+https://www.python.org/ \n
 
 Pytesseract:
 https://tesseract-ocr.github.io/
